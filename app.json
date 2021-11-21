@@ -1,0 +1,8 @@
+{
+  "name": "mkayadelen-mikroservices-1-product",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
